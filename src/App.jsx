@@ -4,6 +4,8 @@ import { supabase } from './supabaseClient'
 import Auth from './Auth'
 import Account from './Account'
 import Posts from './Posts'
+import Signout from './Signout'
+
 import Addpost from './Addpost'
 import Editpost from './Editpost'
 import { Router, useRoutes, Link } from "solid-app-router";
@@ -35,6 +37,11 @@ const afterlogin = [
     {
         path: "/edit-post/:id",
         component: Editpost,
+
+    },
+    {
+        path: "/sign-out",
+        component: Signout,
 
     },
      

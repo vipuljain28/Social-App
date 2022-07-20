@@ -3,6 +3,8 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+import { supabase }
+from './supabaseClient'
 const Menu = (props) => {
 return (
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
@@ -23,7 +25,7 @@ return (
                     <a class="nav-link" href="/profile">Profile</a>
                 </li>
                 <li class="nav-item">
-                    <button class="nav-link" onClick='{() => props.supabase.auth.signOut()}' >Sign Out</button>
+                    <a class="nav-link" href="/sign-out" >Sign Out</a>
                 </li>
 
             </ul>
