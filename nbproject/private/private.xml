@@ -2,24 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/C:/xampp/htdocs/supabase-solid/index.html</file>
-            <file>file:/C:/xampp/htdocs/supabase-solid/src/Editpost.jsx</file>
-            <file>file:/C:/xampp/htdocs/supabase-solid/src/Auth.jsx</file>
-            <file>file:/C:/xampp/htdocs/supabase-solid/src/Avatar.jsx</file>
-            <file>file:/C:/xampp/htdocs/supabase-solid/.env</file>
-            <file>file:/C:/xampp/htdocs/supabase-solid/src/App.jsx</file>
-            <file>file:/C:/xampp/htdocs/supabase-solid/src/Account.jsx</file>
-            <file>file:/C:/xampp/htdocs/supabase-solid/package.json</file>
-            <file>file:/C:/xampp/htdocs/supabase-solid/src/Posts.jsx</file>
-            <file>file:/C:/xampp/htdocs/supabase-solid/src/index.jsx</file>
-            <file>file:/C:/xampp/htdocs/supabase-solid/vite.config.js</file>
-            <file>file:/C:/xampp/htdocs/supabase-solid/src/routes.js</file>
-            <file>file:/C:/xampp/htdocs/supabase-solid/src/menu.jsx</file>
-            <file>file:/C:/xampp/htdocs/supabase-solid/src/component/layout.jsx</file>
-            <file>file:/C:/xampp/htdocs/supabase-solid/src/Addpost.jsx</file>
-            <file>file:/C:/xampp/htdocs/supabase-solid/src/Imssrc.jsx</file>
-            <file>file:/C:/xampp/htdocs/supabase-solid/src/index.css</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>
